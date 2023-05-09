@@ -1,4 +1,4 @@
-# Welcome to my CTF and Room Writeups Repository!
+# Welcome to my CTF Writeups Repository!
 
 This repository contains my writeups for various CTF competitions and rooms on platforms like TryHackMe and HackTheBox. I hope these writeups can be helpful for others who are learning and practicing cybersecurity.
 CTF Writeups
